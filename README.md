@@ -16,4 +16,6 @@ This project is made by **Yogesh Singh** and now I am working on its updated ver
 
 > Make sure to follow me on GitHub
 
+Join my **Discord Server** -> https://discord.gg/4sskHvG8
+
 **Happy Coding**
